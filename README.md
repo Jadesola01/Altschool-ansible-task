@@ -6,10 +6,14 @@ This repository shows how Ansible can be used to automate apache and php from on
 * updated and upgraded the vm
 * installed python3 using the apt command
 * installed ansible on the control vm 
-* Generated an ssh ey on the control vm and copied it to the target vm
+* Generated an ssh key on the control vm and copied it to the target vm
 * Added my hosts to my inventory file
 * created a playbook to automate the tasks
 
 ## Ansible playbook file 
 ![ansible playbook to install apache and php](![setup](https://user-images.githubusercontent.com/102290896/198741607-00e20a00-681b-4592-97b1-7dee861699bf.png)
+
+## Copy of systemctl status apache2
+![A copy of the index.php file added to the target vm](![Apache2 restart ](https://user-images.githubusercontent.com/102290896/198742310-2ab5b569-77f1-471f-a878-1cc0e96483c5.png)
+
 
