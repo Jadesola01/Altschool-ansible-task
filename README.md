@@ -1,6 +1,7 @@
 # Altschool-ansible-task
-This repository shows how Ansible can be used to automate apache and php from one server to another 
-## STEPS 
+This repository shows how Ansible can be used to automate apache and php from one server to another
+
+##STEPS 
 . set up 2 vagrant machines (control and target)
 . updated and upgraded the vm
 . installed python3 using the apt command
